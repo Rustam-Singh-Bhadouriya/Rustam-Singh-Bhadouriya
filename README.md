@@ -1,4 +1,4 @@
-![logo](programming.jpg) 
+<img alt="Coding" width="100%" src="programming.jpg">
 <h1 align="center">Hi 👋, I'm Rustam Bhadouriya</h1>
 <h3 align="center">A passionate AI/ML & Backend developer from India</h3>
 <h3 align="center">Age - 15 year , class - 9th</h3>
