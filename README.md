@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Full Stack Web Devlopment**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **rustambhadouriya7@gmail.com**
 
