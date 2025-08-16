@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently Mastering **DSA with Java**
+- 🌱 I’m currently Mastering **DSA with C++**
 
 - 📫 How to reach me **rustambhadouriya7@gmail.com**
 
