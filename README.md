@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently Mastering **Deep Learning**
+- 🌱 I’m currently Mastering **My Abilities**
 
 - 📫 How to reach me **rustambhadouriya7@gmail.com**
 
